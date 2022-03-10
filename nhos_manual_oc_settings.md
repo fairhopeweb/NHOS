@@ -32,61 +32,63 @@ For example, if you want to lower your core or memory clock from 1800 to 1750 Hz
 ## Algorithm IDs
 In the table below you can find IDs for every algorithm:
 
-| Algorithm        |ID|
-|------------------|--|
-| Scrypt           | 0|
-| SHA256           | 1|
-| ScryptNf         | 2|
-| X11              | 3|
-| X13              | 4|
-| Keccak           | 5|
-| X15              | 6|
-| Nist5            | 7|
-| NeoScrypt        | 8|
-| Lyra2RE          | 9|
-| WhirpoolX        |10|
-| Qubit            |11|
-| Quark            |12|
-| Axiom            |13|
-| Lyra2REv2        |14|
-| ScryptJaneNf16   |15|
-| Blake256r8       |16|
-| Blake256r14      |17|
-| Blake256r8vnl    |18|
-| Hodl             |19|
-| DaggerHashimoto  |20|
-| Decred           |21|
-| CryptoNight      |22|
-| Lbry             |23|
-| Equihash         |24|
-| Pascal           |25|
-| X11Gost          |26|
-| Sia              |27|
-| Blake2s          |28|
-| Skunk            |29|
-| CryptoNightV7    |30|
-| CryptoNightHeavy |31|
-| Lyra2Z           |32|
-| X16R             |33|
-| CrpytoNightV8    |34|
-| SHA256AsicBoost  |35|
-| Zhash            |36|
-| Beam             |37|
-| GrinCuckaroo29   |38|
-| GrinCuckatoo31   |39|
-| Lyra2REv3        |40|
-| MTP              |41|
-| CrpytoNightR     |42|
-| CuckoCycle       |43|
-| GrinCuckarood29  |44|
-| Beamv2           |45|
-| X16Rv2           |46|
-| Eaglesong        |48|
-| GrinCuckaroom29  |49|
-| GrinCuckatoo32   |50|
-| Handshake        |51|
-| KAWPOW           |52|
-| Cuckaroo29BFC    |53|
-| BeamV3           |54|
-| CuckaRooz29      |55|
-| Octopus          |56|
+| Algorithm        | ID  |
+| ---------------- | --- |
+| Scrypt           | 0   |
+| SHA256           | 1   |
+| ScryptNf         | 2   |
+| X11              | 3   |
+| X13              | 4   |
+| Keccak           | 5   |
+| X15              | 6   |
+| Nist5            | 7   |
+| NeoScrypt        | 8   |
+| Lyra2RE          | 9   |
+| WhirpoolX        | 10  |
+| Qubit            | 11  |
+| Quark            | 12  |
+| Axiom            | 13  |
+| Lyra2REv2        | 14  |
+| ScryptJaneNf16   | 15  |
+| Blake256r8       | 16  |
+| Blake256r14      | 17  |
+| Blake256r8vnl    | 18  |
+| Hodl             | 19  |
+| DaggerHashimoto  | 20  |
+| Decred           | 21  |
+| CryptoNight      | 22  |
+| Lbry             | 23  |
+| Equihash         | 24  |
+| Pascal           | 25  |
+| X11Gost          | 26  |
+| Sia              | 27  |
+| Blake2s          | 28  |
+| Skunk            | 29  |
+| CryptoNightV7    | 30  |
+| CryptoNightHeavy | 31  |
+| Lyra2Z           | 32  |
+| X16R             | 33  |
+| CrpytoNightV8    | 34  |
+| SHA256AsicBoost  | 35  |
+| Zhash            | 36  |
+| Beam             | 37  |
+| GrinCuckaroo29   | 38  |
+| GrinCuckatoo31   | 39  |
+| Lyra2REv3        | 40  |
+| MTP              | 41  |
+| CrpytoNightR     | 42  |
+| CuckoCycle       | 43  |
+| GrinCuckarood29  | 44  |
+| Beamv2           | 45  |
+| X16Rv2           | 46  |
+| Eaglesong        | 48  |
+| GrinCuckaroom29  | 49  |
+| GrinCuckatoo32   | 50  |
+| Handshake        | 51  |
+| Kawpow           | 52  |
+| Cuckaroo29BFC    | 53  |
+| BeamV3           | 54  |
+| CuckaRooz29      | 55  |
+| Octopus          | 56  |
+| Autolykos        | 57  |
+| ZelHash          | 58  |
