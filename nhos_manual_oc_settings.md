@@ -92,3 +92,5 @@ In the table below you can find IDs for every algorithm:
 | Octopus          | 56  |
 | Autolykos        | 57  |
 | ZelHash          | 58  |
+| Kadena           | 59  |
+| ETCHash          | 60  |
